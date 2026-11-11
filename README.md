@@ -1,4 +1,10 @@
-## Hi there 👋
+## Oh no, you found me 🤭
+
+I'm currently working on building an ERP system!💻
+
+I am in Global Supply Chain Management👩‍🎓
+
+byu undergrad lets goooo cougs
 
 <!--
 **rosalie-day/rosalie-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
